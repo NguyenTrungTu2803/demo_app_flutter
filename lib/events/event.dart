@@ -1,0 +1,11 @@
+export 'package:flutter_app_beats/events/list_event_item_event.dart';
+export 'package:flutter_app_beats/events/login_event.dart';
+export 'package:flutter_app_beats/events/register_event.dart';
+export 'package:flutter_app_beats/events/detail_event.dart';
+export 'package:flutter_app_beats/events/forgot_password_event.dart';
+export 'package:flutter_app_beats/events/ticket_type_event.dart';
+export 'package:flutter_app_beats/events/tags_event.dart';
+export 'package:flutter_app_beats/events/event_categories_event.dart';
+export 'package:flutter_app_beats/events/buy_ticket_event.dart';
+export 'package:flutter_app_beats/events/list_my_ticket_event.dart';
+export 'package:flutter_app_beats/events/check_in_event.dart';

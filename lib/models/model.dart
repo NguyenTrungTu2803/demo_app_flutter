@@ -1,0 +1,22 @@
+export 'package:flutter_app_beats/models/buy_ticket/buy_payment_model.dart';
+export 'package:flutter_app_beats/models/detail/ticket_describe_model.dart';
+export 'package:flutter_app_beats/models/list_event_item/data_extra.dart';
+export 'package:flutter_app_beats/models/list_event_item/data_list_event.dart';
+export 'package:flutter_app_beats/models/list_event_item/extra.dart';
+export 'package:flutter_app_beats/models/list_event_item/list_event_item_model.dart';
+export 'package:flutter_app_beats/models/login/body_login.dart';
+export 'package:flutter_app_beats/models/login/data_login.dart';
+export 'package:flutter_app_beats/models/login/extra_login.dart';
+export 'package:flutter_app_beats/models/login/login_model.dart';
+export 'package:flutter_app_beats/models/register/body_register.dart';
+export 'package:flutter_app_beats/models/register/register_model.dart';
+export 'package:flutter_app_beats/models/detail/detail_event_model.dart';
+export 'package:flutter_app_beats/models/detail/body_detail.dart';
+export 'package:flutter_app_beats/models/tag/data_tag.dart';
+export 'package:flutter_app_beats/models/tag/event_categories/event_categories_model.dart';
+export 'package:flutter_app_beats/models/buy_ticket/buy_ticket_model.dart';
+export 'package:flutter_app_beats/models/my_ticket/list_my_ticket.dart';
+export 'package:flutter_app_beats/models/follow/create_follow_model.dart';
+export 'package:flutter_app_beats/models/follow/delete_follow_model.dart';
+export 'package:flutter_app_beats/models/check_in/check_in_model.dart';
+

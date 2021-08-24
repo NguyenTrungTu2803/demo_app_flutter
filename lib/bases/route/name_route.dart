@@ -1,0 +1,13 @@
+const String loginPage= '/login_page';
+const String eventPage= '/event_page';
+const String defaultPage = '/default_Page';
+const String buyTicketPage = '/buy_ticket_page';
+const String buyPaymentPage = '/buy_payment_page';
+const String registerPage = '/register_page';
+const String qrPage = '/qr_code';
+const String forgotPassWord = '/forgot_password';
+const String cardPaymentInternationalPage = '/card_payment_international_page';
+const String cardPaymentLocalPage = '/card_payment_local_page';
+const String eventPaymentPage = '/event_payment_page';
+const String qrCodePage = '/qr_code_page';
+const String detailSpeakerPage = '/detail_speaker_page';
